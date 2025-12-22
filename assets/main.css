@@ -106,7 +106,7 @@ td.abstract img{display: block; margin: 4px auto 8px auto}
 table.plenary{padding-top: 8px; background: #ffffff;}
 
 /* Registration and Directions iframes and Images */
-iframe.abstract_submission{display:block; margin:1em auto 2em auto; width:1000px; height:2250px; border:none;}
+iframe.abstract_submission{display:block; margin:1em auto 2em auto; width:1000px; height:1200px; border:none;}
 iframe.directions{display:block; margin:1em auto 2em auto; width:800px; height:400px; border:none;}
 img.center{display:block; width:67%; margin:1em auto 2em auto;}
 

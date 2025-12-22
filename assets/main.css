@@ -40,7 +40,7 @@ body{
 a{color: #c02f38; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
-a:hover{color: #db1c28;}
+a:hover{color: #dbc228;}
 a:active{color: #e82945;}
 h1,h2,h3,h4{clear:left; color: #813c54; margin:1.5em 0em 1em 0em; font-family:'Tahoma',sans-serif; text-shadow: 1px 1px 2px #d0d0d0;}
 h1{font-size:2.67em;}
